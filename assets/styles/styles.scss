@@ -1,3 +1,8 @@
+// styles.scss
+$primary-color: blue;
+$secondary-color: red;
+
 body {
-    background-color: red;
+    background-color: $primary-color;
+    color: $secondary-color;
 }
