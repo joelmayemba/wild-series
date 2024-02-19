@@ -1,9 +1,13 @@
 .navbar, .offcanvas-body {
-  background-color: red;
   color: white;
+  background-color: orange;
 }
 
 body {
   background-color: #f5f5f5;
   color: #FFBC0A;
+}
+
+a {
+  color: #C200FB;
 }/*# sourceMappingURL=styles.css.map */
